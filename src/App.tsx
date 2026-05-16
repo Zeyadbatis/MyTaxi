@@ -29,7 +29,7 @@ export default function App() {
   }, []);
 
   return (
-    <BrowserRouter basename={import.meta.env.BASE_URL}>
+    <BrowserRouter basename="/taxi-online">
       <Navbar />
       <Routes>
         <Route path="/" element={<BookTaxi />} />
