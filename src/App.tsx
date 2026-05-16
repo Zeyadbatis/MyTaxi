@@ -29,7 +29,7 @@ export default function App() {
   }, []);
 
   return (
-    <BrowserRouter basename="/taxi-online">
+    <BrowserRouter basename="/MyTaxi/">
       <Navbar />
       <Routes>
         <Route path="/" element={<BookTaxi />} />
