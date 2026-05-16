@@ -5,7 +5,7 @@ A modern React taxi booking application built as Part 2 of a Web Development Ass
 ## 1. Public URL of Deployed Application
 
 > Replace this placeholder once deployed:  
-> **https://YOUR_USERNAME.github.io/YOUR_REPOSITORY_NAME/**
+> **https://zeyadbatis.github.io/MyTaxi/**
 
 ---
 
